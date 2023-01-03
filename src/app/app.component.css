@@ -6,3 +6,7 @@ h1{
     font-size: 25px;
 }
 
+main{
+    display: flex;
+    flex-wrap: wrap;
+}

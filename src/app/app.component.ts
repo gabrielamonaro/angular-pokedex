@@ -3,8 +3,12 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
-  <h1> Aula de Services</h1>
+  <h1>Pokedex</h1>
+  <main>
   <app-card></app-card>
+
+
+  </main>
 
 
   <router-outlet></router-outlet>
